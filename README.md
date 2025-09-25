@@ -1,7 +1,7 @@
 <h1>🚀 Moon Mission Analysis Dashboard</h1>
 
 <p>
-  <b>Project Author:</b> [Your Name]<br>
+  <b>Project Author:</b> Yash Raj Singh<br>
   <b>Year:</b> 2025
 </p>
 
